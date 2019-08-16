@@ -243,7 +243,7 @@
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.7.2",
     "webpack-merge": "^4.2.1",
-    "webrtc-adapter": "^6.4.8",
+    "webrtc-adapter": "^7.3.0",
     "whatwg-fetch": "^2.0.4",
     "ws": "^4.1.0",
     "xhr": "^2.5.0",

@@ -146,7 +146,7 @@
     "errorhandler": "^1.5.1",
     "es6-promise": "^4.2.8",
     "es6-promise-series": "^0.2.2",
-    "eslint": "^5.16.0",
+    "eslint": "^6.2.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-mocha": "^6.0.0",
     "exif": "^0.6.0",

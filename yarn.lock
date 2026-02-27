@@ -7363,7 +7363,7 @@ __metadata:
     prettier: 2.5.1
     puppeteer: 22.13.0
     rimraf: 3.0.2
-    rollup: 2.68.0
+    rollup: 2.80.0
     rollup-plugin-polyfill-node: 0.8.0
     rollup-plugin-terser: 7.0.2
     rollup-plugin-typescript2: 0.31.2
@@ -7432,7 +7432,7 @@ __metadata:
     prettier: 2.5.1
     puppeteer: 22.13.0
     rimraf: 3.0.2
-    rollup: 2.68.0
+    rollup: 2.80.0
     rollup-plugin-polyfill-node: 0.8.0
     rollup-plugin-terser: 7.0.2
     rollup-plugin-typescript2: 0.31.2
@@ -29300,9 +29300,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:2.68.0":
-  version: 2.68.0
-  resolution: "rollup@npm:2.68.0"
+"rollup@npm:2.80.0":
+  version: 2.80.0
+  resolution: "rollup@npm:2.80.0"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -29310,7 +29310,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: c883f6fb2e10e1c79a32527da0c50ef47a7beb8ddacfdae4197ff2d1911fb8d10bb2704496cf878d3048fbf3524d613bc87f25c5be0afc667fe30b7d04fa8092
+  checksum: 3eeef19adb648ac475bb76cc474f5f601c76bc26490282715016b8948ef31ebd65e43df3ca5b4850686542822b73b2254d9a96013d9cc50d4d984c61cb0dac37
   languageName: node
   linkType: hard
 

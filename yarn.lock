@@ -9443,7 +9443,7 @@ __metadata:
     glob: ^7.1.4
     mkdirp: ^0.5.1
     morgan: ^1.9.1
-    multer: ^1.4.5-lts.1
+    multer: ^2.1.0
     prettier: ^2.7.1
     request: ^2.88.0
     urlsafe-base64: ^1.0.0
@@ -12199,7 +12199,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"busboy@npm:^1.0.0":
+"busboy@npm:^1.6.0":
   version: 1.6.0
   resolution: "busboy@npm:1.6.0"
   dependencies:
@@ -13502,7 +13502,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"concat-stream@npm:^1.5.2, concat-stream@npm:^1.6.0, concat-stream@npm:^1.6.1, concat-stream@npm:~1.6.0":
+"concat-stream@npm:^1.6.0, concat-stream@npm:^1.6.1, concat-stream@npm:~1.6.0":
   version: 1.6.2
   resolution: "concat-stream@npm:1.6.2"
   dependencies:
@@ -25516,7 +25516,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mkdirp@npm:0.5.x, mkdirp@npm:>=0.5 0, mkdirp@npm:^0.5.1, mkdirp@npm:^0.5.3, mkdirp@npm:^0.5.4, mkdirp@npm:^0.5.5, mkdirp@npm:~0.5.1":
+"mkdirp@npm:0.5.x, mkdirp@npm:>=0.5 0, mkdirp@npm:^0.5.1, mkdirp@npm:^0.5.3, mkdirp@npm:^0.5.5, mkdirp@npm:~0.5.1":
   version: 0.5.6
   resolution: "mkdirp@npm:0.5.6"
   dependencies:
@@ -25756,18 +25756,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"multer@npm:^1.4.5-lts.1":
-  version: 1.4.5-lts.2
-  resolution: "multer@npm:1.4.5-lts.2"
+"multer@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "multer@npm:2.1.0"
   dependencies:
     append-field: ^1.0.0
-    busboy: ^1.0.0
-    concat-stream: ^1.5.2
-    mkdirp: ^0.5.4
-    object-assign: ^4.1.1
-    type-is: ^1.6.4
-    xtend: ^4.0.0
-  checksum: b6f76a24c8fbc4d3ed5696ff8c98e126e7831d26f85e0ce17ab8d77e33a9ec14e33e4d05ea5e4e748e63a1b695cf450c2b05d8eee58484a74a1c13f459429713
+    busboy: ^1.6.0
+    concat-stream: ^2.0.0
+    type-is: ^1.6.18
+  checksum: 507de11b93fe97859899042e9532d8484f4b4ae9746181478d452191bcfda18b77d38cb85197d9257fb6596f933fe51e5592daf393b2861dcdc8e2207384b78c
   languageName: node
   linkType: hard
 
@@ -32440,7 +32437,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"type-is@npm:^1.6.16, type-is@npm:^1.6.4, type-is@npm:~1.6.18":
+"type-is@npm:^1.6.16, type-is@npm:^1.6.18, type-is@npm:~1.6.18":
   version: 1.6.18
   resolution: "type-is@npm:1.6.18"
   dependencies:

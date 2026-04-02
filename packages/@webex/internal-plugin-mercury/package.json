@@ -51,7 +51,7 @@
     "@webex/test-helper-test-users": "workspace:*",
     "@webex/webex-core": "workspace:*",
     "backoff": "^2.5.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "uuid": "^3.3.2",
     "ws": "^8.17.1"
   },

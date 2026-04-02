@@ -41,7 +41,7 @@
     "@webex/storage-adapter-local-forage": "workspace:*",
     "@webex/storage-adapter-local-storage": "workspace:*",
     "@webex/webex-core": "workspace:*",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "scripts": {
     "build": "yarn build:src",

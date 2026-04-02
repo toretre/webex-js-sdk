@@ -43,7 +43,7 @@
     "@webex/internal-plugin-encryption": "workspace:*",
     "@webex/internal-plugin-mercury": "workspace:*",
     "@webex/webex-core": "workspace:*",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "uuid": "^3.3.2"
   },
   "scripts": {

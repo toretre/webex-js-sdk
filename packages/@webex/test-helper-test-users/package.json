@@ -19,7 +19,7 @@
   "dependencies": {
     "@webex/test-helper-retry": "workspace:*",
     "@webex/test-users": "workspace:*",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "scripts": {
     "build": "yarn build:src",

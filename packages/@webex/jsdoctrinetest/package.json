@@ -54,7 +54,7 @@
     "@webex/test-helper-chai": "workspace:*",
     "babylon": "^6.18.0",
     "doctrine": "^2.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "scripts": {
     "build": "yarn build:src",

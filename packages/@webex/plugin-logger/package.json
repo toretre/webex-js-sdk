@@ -38,7 +38,7 @@
     "@webex/test-helper-mocha": "workspace:*",
     "@webex/test-helper-mock-webex": "workspace:*",
     "@webex/webex-core": "workspace:*",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "scripts": {
     "build": "yarn build:src",

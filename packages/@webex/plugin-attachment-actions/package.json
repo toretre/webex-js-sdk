@@ -27,7 +27,7 @@
     "@webex/internal-plugin-mercury": "workspace:*",
     "@webex/webex-core": "workspace:*",
     "debug": "^4.3.4",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "peerDependencies": {
     "@webex/plugin-logger": "workspace:*",

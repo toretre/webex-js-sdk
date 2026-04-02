@@ -29,7 +29,7 @@
   "dependencies": {
     "@webex/test-helper-file": "workspace:*",
     "check-error": "^1.0.2",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "scripts": {
     "build": "yarn build:src",

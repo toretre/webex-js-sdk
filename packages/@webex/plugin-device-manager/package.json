@@ -30,7 +30,7 @@
     "@webex/plugin-logger": "workspace:*",
     "@webex/test-helper-chai": "workspace:*",
     "@webex/webex-core": "workspace:*",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "uuid": "^3.3.2"
   },
   "scripts": {

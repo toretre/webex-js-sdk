@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "es6-promise": "^4.2.8",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "require-dir": "^0.3.2"
   },
   "scripts": {
